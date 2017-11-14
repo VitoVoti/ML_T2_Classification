@@ -3,7 +3,7 @@
 Patricio Horth M. y Víctor Zúñiga M.
 2 de Noviembre de 2017
 
-* Esta tarea utiliza Python 3 y Jupyter Notebook
+* Esta tarea utiliza Python 3.6 y Jupyter Notebook
 Se utilizan variadas bibliotecas: urllib para descarga de los datasets, y bibliotecas de uso científico y de gráficos (Pandas, Numpy, Matplotlib, sklearn, scipy, seaborn, ntlk)
 
 * Es posible que sea necesario instalar la biblioteca "seaborn"
