@@ -11,3 +11,6 @@ y bibliotecas de uso científico y de gráficos
 * Es posible que sea necesario instalar la biblioteca "seaborn"
 Si se utiliza Anaconda, se puede instalar con "conda install seaborn"
 Lo mismo para nltk e imbalanced-learn, ej: "conda install -c anaconda nltk" 
+
+* Se requiere tabulate
+pip install tabulate
